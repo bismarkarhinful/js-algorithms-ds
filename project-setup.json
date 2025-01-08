@@ -1,0 +1,20 @@
+{
+  "name": "js-algorithms-ds",
+  "version": "1.0.0",
+  "description": "JavaScript Algorithms and Data Structures Implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "algorithms",
+    "data-structures",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
