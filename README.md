@@ -1,7 +1,7 @@
 #JavaScript Algorithms & Data Structures
 A collection of JavaScript implementations for practicing and learning common algorithms and data structures.
-What's Inside
 
+#What's Inside:
 Basic algorithms (sorting, searching)
 Common data structures (arrays, linked lists)
 Practice problems and solutions
